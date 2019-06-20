@@ -1,0 +1,116 @@
+2019-06-16 20:35:12 ERROR Main:13 - qweqwe
+2019-06-18 11:49:42 INFO  Main:13 - qweqwe
+2019-06-18 12:06:09 WARN  Reader:21 - java.io.FileNotFoundException: ew.txt (Не удается найти указанный файл)
+2019-06-18 12:10:30 WARN  Reader:22 - java.io.FileNotFoundException: tariffs.txt (Не удается найти указанный файл)
+2019-06-18 12:17:31 WARN  Reader:22 - java.io.FileNotFoundException: src\main\resouces\tariffs.txt (Системе не удается найти указанный путь)
+2019-06-18 12:18:07 WARN  Reader:22 - java.io.FileNotFoundException: src\main\resouces\tariffs.txt (Системе не удается найти указанный путь)
+2019-06-18 19:58:26 WARN  Main:23 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: qwe
+2019-06-19 05:09:51 WARN  Main:26 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: 
+2019-06-19 05:10:54 WARN  Main:26 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: 
+2019-06-19 05:16:05 WARN  Main:26 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: 
+2019-06-20 05:49:35 WARN  Validator:30 - term - ilegal term
+2019-06-20 05:49:35 WARN  Validator:30 - term - ilegal term
+2019-06-20 05:49:35 WARN  Validator:30 - term - ilegal term
+2019-06-20 05:49:35 WARN  Validator:30 - term - ilegal term
+2019-06-20 05:49:35 WARN  Validator:27 - titleкк - must be string
+2019-06-20 05:49:35 WARN  Validator:30 - year - ilegal term
+2019-06-20 05:49:35 WARN  Validator:30 - month - ilegal term
+2019-06-20 05:50:15 WARN  Validator:33 - 83468 - must be string
+2019-06-20 05:50:15 WARN  Validator:33 - 836 - must be string
+2019-06-20 05:50:15 WARN  Validator:33 - 356 - must be string
+2019-06-20 05:52:38 WARN  Validator:33 - 83468 - must be string
+2019-06-20 05:52:38 WARN  Validator:33 - 836 - must be string
+2019-06-20 05:52:38 WARN  Validator:33 - 356 - must be string
+2019-06-20 05:52:38 WARN  Reader:37 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: CALLSs - unknown type
+2019-06-20 05:58:06 WARN  Validator:33 - 83468 - must be string
+2019-06-20 05:58:06 WARN  Validator:33 - 836 - must be string
+2019-06-20 05:58:06 WARN  Validator:33 - 356 - must be string
+2019-06-20 05:58:06 ERROR Reader:37 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: CALLSs - unknown type
+2019-06-20 05:59:55 WARN  Validator:33 - 83468 - must be string
+2019-06-20 05:59:55 WARN  Validator:33 - 836 - must be string
+2019-06-20 05:59:55 WARN  Validator:33 - 356 - must be string
+2019-06-20 05:59:55 ERROR Reader:37 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: CALLSs - unknown type
+2019-06-20 06:02:27 WARN  Validator:34 - 83468 - must be string
+2019-06-20 06:02:27 WARN  Validator:34 - 836 - must be string
+2019-06-20 06:02:27 WARN  Validator:34 - 356 - must be string
+2019-06-20 06:02:27 ERROR Reader:37 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: CALLSs - unknown type
+2019-06-20 06:03:03 WARN  Validator:34 - 83468 - must be string
+2019-06-20 06:03:03 WARN  Validator:34 - 836 - must be string
+2019-06-20 06:03:03 WARN  Validator:34 - 356 - must be string
+2019-06-20 06:03:03 ERROR Reader:37 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: CALLSs - unknown type
+2019-06-20 06:06:12 WARN  Validator:34 - 83468 - must be string
+2019-06-20 06:06:12 WARN  Validator:34 - 836 - must be string
+2019-06-20 06:06:12 WARN  Validator:34 - 356 - must be string
+2019-06-20 06:06:12 ERROR Reader:37 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: CALLSs - unknown type
+2019-06-20 06:06:47 WARN  Validator:34 - 83468 - must be string
+2019-06-20 06:06:47 WARN  Validator:34 - 836 - must be string
+2019-06-20 06:06:47 WARN  Validator:34 - 356 - must be string
+2019-06-20 06:06:47 ERROR Reader:38 - by.epam.mobileTariff.exeption.NotFoundTypeExeption: CALLSs - unknown type
+2019-06-20 06:09:17 WARN  Validator:34 - 83468 - must be string
+2019-06-20 06:09:17 WARN  Validator:34 - 836 - must be string
+2019-06-20 06:09:18 WARN  Validator:34 - 356 - must be string
+2019-06-20 06:09:18 WARN  TariffFactory:40 - illegal type
+2019-06-20 06:09:18 WARN  Validator:34 - 635 - must be string
+2019-06-20 06:09:18 WARN  Validator:28 - titleкк - must be string
+2019-06-20 06:09:18 WARN  Validator:34 - 245 - must be string
+2019-06-20 06:09:18 WARN  Validator:34 - 213 - must be string
+2019-06-20 06:09:51 WARN  TariffFactory:40 - illegal type
+2019-06-20 06:09:51 WARN  Validator:28 - titleкк - must be string
+2019-06-20 06:11:06 WARN  TariffFactory:40 - illegal type
+2019-06-20 06:11:06 WARN  Validator:28 - titleкк - must be string
+2019-06-20 06:12:35 WARN  TariffFactory:41 - illegal type
+2019-06-20 06:12:35 WARN  Validator:28 - titleкк - must be string
+2019-06-20 06:13:44 WARN  TariffFactory:41 - illegal type
+2019-06-20 06:13:44 WARN  Validator:28 - titleкк - must be string
+2019-06-20 06:14:02 WARN  TariffFactory:41 - illegal type
+2019-06-20 06:14:02 WARN  Validator:28 - titleкк - must be string
+2019-06-20 06:16:26 WARN  TariffFactory:38 - illegal type
+2019-06-20 06:16:26 WARN  Validator:31 - titleкк - must be string
+2019-06-20 06:17:02 WARN  TariffFactory:38 - CALLSs - illegal type
+2019-06-20 06:17:02 WARN  Validator:31 - titleкк - must be string
+2019-06-20 06:18:12 WARN  TariffFactory:38 - CALLSs - illegal type
+2019-06-20 06:18:12 WARN  Validator:33 - titleкк - must be string
+2019-06-20 06:18:27 WARN  TariffFactory:38 - CALLSs - illegal type
+2019-06-20 06:18:27 WARN  Validator:33 - titleкк - must be string
+2019-06-20 06:20:52 WARN  Validator:25 -  - illegal type
+2019-06-20 06:20:52 WARN  Validator:25 -  - illegal type
+2019-06-20 06:20:52 WARN  Validator:25 -  - illegal type
+2019-06-20 06:20:52 WARN  Validator:25 -  - illegal type
+2019-06-20 06:20:52 WARN  Validator:25 -  - illegal type
+2019-06-20 06:20:52 WARN  Validator:25 -  - illegal type
+2019-06-20 06:20:52 WARN  Validator:25 -  - illegal type
+2019-06-20 06:21:21 WARN  Validator:26 -  - illegal type
+2019-06-20 06:21:21 WARN  Validator:26 -  - illegal type
+2019-06-20 06:21:21 WARN  Validator:26 -  - illegal type
+2019-06-20 06:21:21 WARN  Validator:26 -  - illegal type
+2019-06-20 06:21:21 WARN  Validator:26 -  - illegal type
+2019-06-20 06:21:21 WARN  Validator:26 -  - illegal type
+2019-06-20 06:21:21 WARN  Validator:26 -  - illegal type
+2019-06-20 06:22:26 WARN  Validator:26 - CALLS - illegal type
+2019-06-20 06:22:26 WARN  Validator:26 - CALLS - illegal type
+2019-06-20 06:22:26 WARN  Validator:26 - CALLSs - illegal type
+2019-06-20 06:22:26 WARN  Validator:26 - INTERNET - illegal type
+2019-06-20 06:22:26 WARN  Validator:26 - CALLS - illegal type
+2019-06-20 06:22:26 WARN  Validator:26 - INTERNET - illegal type
+2019-06-20 06:22:26 WARN  Validator:26 - INTERNET - illegal type
+2019-06-20 06:23:20 WARN  Validator:26 - CALLSs - illegal type
+2019-06-20 06:23:20 WARN  Validator:30 - titleкк - must be string
+2019-06-20 06:23:35 WARN  Validator:26 - CALLSs - illegal type
+2019-06-20 06:23:35 WARN  Validator:30 - titleкк - must be string
+2019-06-20 06:24:14 WARN  Validator:26 - CALLSs - illegal type
+2019-06-20 06:24:14 WARN  Validator:30 - titleкк - must be string
+2019-06-20 06:36:11 WARN  Validator:26 - CALLSs - illegal type
+2019-06-20 06:36:11 WARN  Validator:30 - titleкк - must be string
+2019-06-20 07:55:35 WARN  Validator:57 - type - illegal type
+2019-06-20 12:11:30 ERROR Reader:31 - java.io.FileNotFoundException: src\resources\tariffsTest.txt (Системе не удается найти указанный путь)
+2019-06-20 12:12:13 ERROR Reader:31 - java.io.FileNotFoundException: src\resources\tariffsTest.txt (Системе не удается найти указанный путь)
+2019-06-20 12:14:36 ERROR Reader:31 - java.io.FileNotFoundException: src\main\resources\tariffsTest.txt (Не удается найти указанный файл)
+2019-06-20 12:15:36 WARN  Validator:26 - web2 - must be string
+2019-06-20 12:15:36 WARN  Validator:26 - web3 - must be string
+2019-06-20 12:15:48 WARN  Validator:26 - web2 - must be string
+2019-06-20 12:15:48 WARN  Validator:26 - web3 - must be string
+2019-06-20 12:16:06 WARN  Validator:26 - web2 - must be string
+2019-06-20 12:16:06 WARN  Validator:26 - web3 - must be string
+2019-06-20 12:16:37 ERROR Reader:31 - java.io.FileNotFoundException: src\main (Отказано в доступе)
+2019-06-20 12:22:46 WARN  Validator:55 - CALLS - illegal type
+2019-06-20 12:30:35 WARN  Validator:55 - CALLS - illegal type
